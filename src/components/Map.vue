@@ -14,7 +14,7 @@
 
   <!-- map section start  -->
   <GoogleMap
-    api-key="AIzaSyBOD8HevPAtkVdLbWTAYU3Ic6jY6Ef2FoY"
+    api-key="API_KEY"
     style="width: 100%; height: 500px; border-radius: 8px; overflow: hidden"
     :center="center"
     :zoom="3"
